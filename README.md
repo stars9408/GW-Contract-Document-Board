@@ -17,15 +17,11 @@
 
 1. 우선 '계약문서함'의 표지 페이지입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6895141f-8462-4b60-b35b-ff8e38880f1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6895141f-8462-4b60-b35b-ff8e38880f1d/Untitled.png)
-
 위 좌측 네비게이션 탭에서 '계약문서함'을 추가하여 클릭 시, 이동하도록 하였습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d8b6125-d865-49ef-a2c8-cef5b8bf3c47/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d8b6125-d865-49ef-a2c8-cef5b8bf3c47/Untitled.png)
 
 *'계약문서함'에 마우스를 올렸을 때, 하단에 나타나는 표시를 통해 그룹웨어 FTP에서 어떤 디렉토리에서 처리가 이루어지는지 알 수 있습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82524f19-d5af-4c71-a616-379ad0359c1d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82524f19-d5af-4c71-a616-379ad0359c1d/Untitled.png)
 
 '계약문서함'의 표지 페이지입니다.
 
@@ -38,17 +34,14 @@
 튜닝하였습니다.
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d0e1bf1-a0d3-4eff-9c41-acb3441e5d2c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d0e1bf1-a0d3-4eff-9c41-acb3441e5d2c/Untitled.png)
 
 위 사진처럼 '계약문서함'에 요구되는 사항들에 맞추어 테이블의 이름과 SQL문에 주어지는 값들(DB에 맞게)을 수정하였습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94be721b-ff07-4d12-8bae-eb6ffc34184c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94be721b-ff07-4d12-8bae-eb6ffc34184c/Untitled.png)
 
 하나의 문서를 클릭하였을 때 그 문서의 상세 내용들을 보여주는 기능, 문서 수정 기능, 문서 삭제 기능 들 모두에 '계약문서함'에 맞도록 변수들과 SQL문을 수정해주었습니다.
 
 ## Database
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3de3e56e-514d-4f41-a242-5c85df721258/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3de3e56e-514d-4f41-a242-5c85df721258/Untitled.png)
 
 database management 툴으로는 **Microsoft SQL Server Management Studio 18**을 사용하였습니다. DB를 만들고 요구 데이터테이블을 추가해주었습니다.
 
@@ -56,31 +49,24 @@ database management 툴으로는 **Microsoft SQL Server Management Studio 18**�
 
 ### 테스트
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f871c5d-b8ec-4b68-b734-720bc93f3e39/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f871c5d-b8ec-4b68-b734-720bc93f3e39/Untitled.png)
 
 **그룹웨어 '자료관리/계약문서함'에서 '등록하기"를 통해 문서를 작성해보았습니다!**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/441190a6-434d-4c7b-b4ed-8c55a207d24a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/441190a6-434d-4c7b-b4ed-8c55a207d24a/Untitled.png)
 
 **그룹웨어 '자료관리/계약문서함'에 성공적으로 문서가 등록되었습니다!**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6d27640-020e-4dd0-9609-a80b33ad8f4c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6d27640-020e-4dd0-9609-a80b33ad8f4c/Untitled.png)
 
 **문서이름을 클릭하여 자세히 보여주는 페이지입니다!**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1a511c5-8c7f-4146-b7db-e820478e8d9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1a511c5-8c7f-4146-b7db-e820478e8d9f/Untitled.png)
 
 **'수정하기'를 통해 수정해보았습니다!**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77934e71-f367-4117-816d-3646dcf48a07/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77934e71-f367-4117-816d-3646dcf48a07/Untitled.png)
 
 **—>수정도 잘 되었네요**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fea2943-7e0e-43c2-ae5c-78940b88d0cf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fea2943-7e0e-43c2-ae5c-78940b88d0cf/Untitled.png)
 
 **'삭제하기' 기능도 테스트 해보았습니다.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49a48a04-3e7c-419b-832b-8339c8e632c2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49a48a04-3e7c-419b-832b-8339c8e632c2/Untitled.png)
 
 **삭제도 잘 되네요!!**
 
